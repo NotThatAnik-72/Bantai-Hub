@@ -1,5 +1,3 @@
-
-
 pcall(function()
 	BH_HAS_FS = (writefile ~= nil and readfile ~= nil and isfolder ~= nil and makefolder ~= nil)
 
